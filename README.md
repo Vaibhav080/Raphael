@@ -1,4 +1,4 @@
-# Voice-Enabled Kubernetes RAG Assistant
+# Raphael - A Voice-Enabled RAG Assistant
 
 ## Overview
 
