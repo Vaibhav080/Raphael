@@ -37,12 +37,10 @@ Raphael/
 ├── app/
 │   ├── api/
 │   │   └── main.py
-│   ├── audio/
 │   ├── llm/
 │   ├── nlp/
 │   ├── retrieval/
 │   ├── scraper/
-│   └── speech/
 │
 ├── frontend/
 │   ├── src/
