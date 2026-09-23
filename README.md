@@ -18,6 +18,20 @@ The system retrieves relevant Kubernetes documentation using both **semantic vec
 * **FastAPI Backend** providing the query-processing API
 * **React Frontend** providing the voice-enabled user interface
 
+## Screenshots
+
+### Main Interface
+
+![Raphael Main Interface](images/resting_page.png)
+
+### Voice Interaction
+
+![Voice Interaction](images/loading.png)
+
+### RAG Response
+
+![RAG Response](images/result.png)
+
 ## Tech Stack
 
 * **Frontend:** React, Vite, JavaScript
